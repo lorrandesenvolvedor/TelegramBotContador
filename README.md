@@ -17,3 +17,7 @@ Função
 Calcular gastos diários semanais e mensais.
 Enviar notificações assim que o valor adicionado for atingido.
 
+# local da sua Key do Telegram.
+![localKey](./localKey.jpg)
+caminho: dados/variáveis.py
+acesse esse arquivo encontre exatamente a posição da imagem acima e adicione a Key do seu bot no local indicado.
